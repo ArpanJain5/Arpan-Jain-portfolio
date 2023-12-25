@@ -107,7 +107,7 @@ export const projectCard: IProjectSectionCardData[] = [
         title: "Mitra",
         techStack: "HTML, CSS, Bootstrap, JavaScript, Java",
         Icon: GraduationCap,
-        bgColor: "darkpurple",
+        bgColor: "purple",
         href: "https://github.com/ArpanJain5/Mitra",
         url: "",
         description: "",
